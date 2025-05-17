@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Resource Rank",
+    "version": "1.0",
+    "description": "Search Reddit and view top comments directly from your browser popup.",
+    "permissions": [
+        "http://127.0.0.1:5000/"
+    ],
+    "action": {
+        "default_popup": "popup/popup.html"
+    }
+}
